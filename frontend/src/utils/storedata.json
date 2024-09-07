@@ -1,0 +1,774 @@
+{
+    "datas":[
+        {
+            "id": 1,
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": "720",
+            "searchtitle":"laptopcover",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": "450",
+            "searchtitle":"Menstshirt",
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 3,
+            "title": "Mens Cotton Jacket",
+            "price": "560",
+            "searchtitle":"MensJacket",
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 4,
+            "title": "Mens Casual Slim Fit",
+            "price": "590",
+            "searchtitle":"Menscasual",
+            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.1,
+                "count": 430
+            }
+        },
+        {
+            "id": 5,
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "searchtitle":"goldjewelery",
+            "price": "899",
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 400
+            }
+        },
+        {
+            "id": 6,
+            "title": "Solid Gold Petite Micropave ",
+            "searchtitle":"goldjewelery",
+            "price": "3,390",
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 70
+            }
+        },
+        {
+            "id": 7,
+            "title": "White Gold Plated Princess",
+            "price": "3,670",
+            "searchtitle":"goldjewelery",
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 400
+            }
+        },
+        {
+            "id": 8,
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "price": "4,500",
+            "searchtitle":"silverjewelery",
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 1.9,
+                "count": 100
+            }
+        },
+        {
+            "id": 9,
+            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+            "price": "6,799",
+            "searchtitle":"harddrive",
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "rating": {
+                "rate": 3.3,
+                "count": 203
+            }
+        },
+        {
+            "id": 10,
+            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "price": "999",
+            "searchtitle":"sanDiskSSD",
+            "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 470
+            }
+        },
+        {
+            "id": 11,
+            "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "price": "899",
+            "searchtitle":"sanDiskSSD",
+            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 319
+            }
+        },
+        {
+            "id": 12,
+            "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "price": "999",
+            "searchtitle":"harddrive",
+            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 400
+            }
+        },
+        {
+            "id": 13,
+            "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "price": "599",
+            "searchtitle":"Acerlaptop",
+            "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 250
+            }
+        },
+        {
+            "id": 14,
+            "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+            "price": "999",
+            "searchtitle":"samsunglaptop",
+            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        {
+            "id": 15,
+            "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "price": "599",
+            "searchtitle":"womenjacket",
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 2.6,
+                "count": 235
+            }
+        },
+        {
+            "id": 16,
+            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "price": "399",
+            "searchtitle":"womenjacket",
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 340
+            }
+        },
+        {
+            "id": 17,
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "price": "299",
+            "searchtitle":"womenjacket",
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 679
+            }
+        },
+        {
+            "id": 18,
+            "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+            "price": "499",
+            "searchtitle":"womensleeve",
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 130
+            }
+        },
+        {
+            "id": 19,
+            "title": "Opna Women's Short Sleeve Moisture",
+            "price": "399",
+            "searchtitle":"womensleeve",
+            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 146
+            }
+        },
+        {
+            "id": 20,
+            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "price": "499",
+            "searchtitle":"womentshirt",
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "rating": {
+                "rate": 3.6,
+                "count": 145
+            }
+        },
+        
+        {
+            "id": 21,
+            "title": "Amazon Brand - Symbol Men's Solid Regular Polo (ESSPPO2D_Pink & Sky Blue 3XL)",
+            "price": "299",
+            "searchtitle":"Menstshirt",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/71Fp0VkLs2L._UX679_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 145
+            }
+        },
+        {
+            "id": 22,
+            "title": "Amazon Brand - Symbol Men's Solid Regular Polo (ESSPPO2D_Pink & Sky Blue 3XL)",
+            "price": "399",
+            "searchtitle":"Menstshirt",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/81fvyEliEOL._UY879_.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 145
+            }
+        },
+        {
+            "id": 23,
+            "title": "Amazon Brand - Symbol Men's Solid Regular Polo (ESSPPO2D_Pink & Sky Blue 3XL)",
+            "price": "499",
+            "searchtitle":"Menstshirt",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/713n+TxyfCL._UY879_.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+        {
+            "id": 24,
+            "title": "Alan Jones Clothing Men's Fleece Hooded Hoodie",
+            "price": "999",
+            "searchtitle":"Menstshirt",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/61TQiA49VoL._UY879_.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 145
+            }
+        },
+        {
+            "id": 25,
+            "title": "RAJMANDIRFABRICS Women's Cotton Floral Printed Night Suit Top and Pyjama Set",
+            "price": "999",
+            "searchtitle":"women Pyjama",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "women's clothing",
+            "image": "https://m.media-amazon.com/images/I/81LGGmZSpOL._UY879_.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+        {
+            "id": 26,
+            "title": "RAJMANDIRFABRICS Women's Cotton Printed Night Suit Top and Pyjama Set (Yellow)",
+            "price": "1,999",
+            "searchtitle":"women Pyjama",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "women's clothing",
+            "image": "https://m.media-amazon.com/images/I/71Dv4JwWXqL._UY879_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 145
+            }
+        },
+        {
+            "id": 27,
+            "title": "ECOLINE Clothing Women's Polycotton V-Neck Shrug",
+            "price": "2,999",
+            "searchtitle":"womentshirt",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "women's clothing",
+            "image": "https://m.media-amazon.com/images/I/81ToEYjSkVL._UY879_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 145
+            }
+        },
+        {
+            "id": 28,
+            "title": "GoSriKi Women's Solid Regular Kurta",
+            "price": "1,999",
+            "searchtitle":"womenkurta",
+            "description": "Care Instructions: Machine Wash Fit Type: Regular Fit 100% Cotton pique fabric  Fit Type: regular fit 2 button placket band collar polo Solid polo with slim band collar",
+            "category": "women's clothing",
+            "image": "https://m.media-amazon.com/images/I/51dZ19miAbL._UY879_.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 145
+            }
+        },
+        {
+            "id": 29,
+            "title": "Huion H430P OSU Graphics Drawing Tablet with Battery-Free Stylus 4.8x3 inch Working Area 4 Press Keys",
+            "price": "2,999",
+            "searchtitle":"Huion H430P Graphics",
+            "description": "[Enhance Workflow] - There are 4 customizable express keys on the H430p drawing pad and 2 buttons on the digital pen. You can set up the press keys and buttons to your favorite shortcuts in Huion driver, such as Scroll,Undo,Eraser.It will help you work more smoothly and efficiently.",
+            "category": "electronics",
+            "image": "https://m.media-amazon.com/images/I/51+YlKaINSL._SX679_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 145
+            }
+        },
+        {
+            "id": 30,
+            "title": "AptechDeals Mini LCD digital thermometer sensor wired for Room temperaure/fridges, Indoor Outdoor Portable Pocket LCD",
+            "price": "999",
+            "searchtitle":"LCD DIGITALMETER",
+            "description": "Brand: ApTechDealsSpecial Feature: Fast Reading System Colour: white Age Range (Description): Adult  Included Components: Temprature Meter",
+            "category": "electronics",
+            "image": "https://m.media-amazon.com/images/I/71c3TpiYPbL._SX466_.jpg",
+            "rating": {
+                "rate": 3.5,
+                "count": 145
+            }
+        },
+        {
+            "id": 31,
+            "title": "Robotbanao Electronic Components Kit-DIY Projects-Small Prototyping Projects-For Science Projects-For Educational Purposes-For Learning-58 Components",
+            "price": "1,299",
+    
+            "description": "The Robotbanao Electronic Components Kit has everything needed to build a prototype. It consists of breadboard, LED, resistors, transistors and other generic components.",
+            "category": "electronics",
+            "image": "https://m.media-amazon.com/images/I/71uriZ+FIhL._SX466_.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 145
+            }
+        },
+        {
+            "id": 32,
+            "title": "Sounce Shutter Remote Control with Bluetooth Wireless Technology - Create Amazing Photos and Videos Hands-Free - Works with Most Smartphones",
+            "price": "399",
+            "description": "✅ HANDY LITTLE GADGET ►This Bluetooth remote makes it exciting to take selfies, group and steady shots hands-free! Post amazing photos and videos on Snapchat, Instagram, Facebook or YouTube with the help of this shutter.",
+            "category": "electronics",
+            "image": "https://m.media-amazon.com/images/I/51x9HSFrFrL._SX466_.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 145
+            }
+        },
+           
+            {
+                "id": 34,
+                "title": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery ",
+                "price": "9,199",
+                
+                "description": "6000mAh lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchas Upto 12GB RAM with RAM Plus | 64GB internal memory expandable up to 1TB| Dual Sim (Nano)",
+                "category": "mobile",
+                "image": "https://m.media-amazon.com/images/I/41op1vdp-UL._SX300_SY300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.1,
+                    "count": 400
+                }
+            }, {
+                "id": 35,
+                "title": "realme narzo N53 (Feather Black, 4GB+64GB) 33W Segment Fastest Charging ",
+                "price": "9,999",
+                "description": "6000mAh lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchas Upto 12GB RAM with RAM Plus | 64GB internal memory expandable up to 1TB| Dual Sim (Nano)",
+                "category": "mobile",
+                "image": "https://m.media-amazon.com/images/I/71DSxfKzkJL._SX679_.jpg",
+                "rating": {
+                    "rate": 3.9,
+                    "count": 400
+                }
+            },
+            {
+                "id": 36,
+                "title": "Apple iPhone 14 Pro Max (128 GB) - Gold",
+                "price": "1,29,999",
+                "description": "out this item 17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP Main camera for up to 4x greater resolution Cinematic mode now in 4K Dolby Vision up to 30 fps",
+                "category": "mobile",
+                "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._SX679_.jpg",
+                "rating": {
+                    "rate": 4.5,
+                    "count": 400
+                }
+            },
+            {
+                "id": 37,
+                "title": "Apple iPhone 13 (256GB) - Blue",
+                "price": "69,999",
+                "description": "15 cm (6.1-inch) Super Retina XDR display Cinematic mode adds shallow depth of field and shifts focus automatically in your videos Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+                "category": "mobile",
+                "image": "https://m.media-amazon.com/images/I/3150P3KQFlL._SY445_SX342_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.3,
+                    "count": 400
+                }
+            },
+            {
+                "id": 38,
+                "title": "Redmi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32R8-FVIN (Black)",
+                "price": "8,999",
+                "description": "gResolution: HD Ready (1366x768) | Refresh Rate: 60 hertz | 178 wide viewing angle Connectivity: Dual Band Wi-Fi (2.4 GHz/ 5 GHz) | 2 HDMI ports to connect set top box, gaming consoles, DVD or Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ARC | Bluetooth 5.0 | Ethernet | 3.5mm earphone Jack",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/819Lw2PE8tL._SX679_.jpg",
+                "rating": {
+                    "rate": 3.7,
+                    "count": 400
+                }
+            },
+            {
+                "id": 39,
+                "title": "Acer 139 cm (55 inches) I Series 4K Ultra HD Android Smart LED TV AR55AR2851UDFL (Black)",
+                "price": "19,999",
+                "description": "Android 11 | Dual Band Wifi | 2 way Bluetooth | MEMC | Blue Light Reduction |Intelligent Frame Stabilization Engine | Dynamic Signal Calibration | Wide Colour Gamut+ | 1.07 Billion Colours | HDR10+ with HLG | UHD Upscaling | Digital Noise Reduction | Micro Dimming | Dolby",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/41Z-K-OdYhL._SY300_SX300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 3.9,
+                    "count": 400
+                }
+            },
+            {
+                "id": 40,
+                "title": "MI 108 cm (43 inches) X Series 4K Ultra HD Smart Android LED L43M7-A2IN (Black)",
+                "price": "29,999",
+                "description": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 hertz | 178 degree wide viewing angle Connectivity: 3 HDMI ports to connect latest gaming consoles, set top box, Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | Dual Band Wi-Fi (2.4 GHz/ 5 GHz) | ALLM | eARC | Bluetooth 5.0 | Optical | Ethernet | 3.5mm earphone Jack",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/51-Am2Kk2pL._SX300_SY300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.0,
+                    "count": 400
+                }
+            },
+            {
+                "id": 41,
+                "title": "Nu 140 cm (55 inch) WebOS Series 4K Ultra HD Smart LED TV LED55UWA1 (Black) 2023 Model",
+                "price": "39,999",
+                "description": "Resolution : 4K Ultra HD (3840 x 2160) | Refresh Rate : 60 Hertz Connectivity: 3 HDMI ports for Set top box, Blu Ray players, Gaming console | 2 USB ports to connect hard drives and other USB devicesSound: 20 Watts Output | Dolby Atmos | DTS-HD",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/51YxnpiHxLL._SY300_SX300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.3,
+                    "count": 400
+                }
+            },
+            {
+                "id": 42,
+                "title": "Onida 108 cm (43 inches) 4K Ultra HD Smart LED Fire TV 43UIF (Black)",
+                "price": "23,999",
+                "description": "Fire TV Built-In | Voice Remote with Alexa | DTH Set-Top Box Integration to switch between DTH TV Channels & OTT apps | Display Mirroring - Mira Cast | 70+ free live channels on the Live tab | Personalization - up to 6 user profiles | Data Monitoring | Supported Apps : Prime Video, Netflix,",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/3150P3KQFlL._SY445_SX342_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.1,
+                    "count": 400
+                }
+            },
+            {
+                "id": 43,
+                "title": "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+                "price": "21,999",
+                "description": "Supported Internet Services: Netflix, Prime Video, Zee5, SonyLiv, Youtube, Hotstar Display Technology: LED Product Dimensions: 3.3D x 28.8W x 17.3H Centimeters Resolution: 1366x768 Refresh Rate: 60 Hz",
+                "category": "tv",
+                "image": "https://m.media-amazon.com/images/I/41I+Opa4rbL._SX300_SY300_.jpg",
+                "rating": {
+                    "rate": 4.2,
+                    "count": 400
+                }
+            },
+            {
+                "id": 44,
+                "title": "Fire-Boltt Ninja 3 Smartwatch Full Touch 1.69 & 60 Sports Modes with IP68",
+                "price": "999",
+                "description": "Fire-Boltt is India' No 1 Wearable Watch Brand Q122 by IDC Worldwide quarterly wearable device tracker Q122.【1.69” HD Large Touch Screen】- Fire-Boltt Ninja 3 comes with a 1.69” HD Full Touch Display for smooth swipes and clear vision;【SPO2/ Oxygen, Heart Rate】 - Fire-Boltt Ninja 3 Smartwatch comes with real time 24*7 SPO2 / Blood Oxygen tracking",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/61ZgWdNPmfL._AC_UL480_FMwebp_QL65_.jpg",
+                "rating": {
+                    "rate": 4.1,
+                    "count": 400
+                }
+            },
+            {
+                "id": 45,
+                "title": "Apple Watch SE (2nd Gen) [GPS 44 mm] Smart Watch w/Midnight Aluminium Case Band. ",
+                "price": "25,999",
+                "description": "WHY APPLE WATCH SE — All the essentials to help you monitor your fitness, keep connected, track your health and stay safe. Now up to 20% faster, with features like Crash Detection and enhanced workout metrics, it’s a better value than ever. EASILY CUSTOMISABLE — Available in a range of sizes and colours, with dozens of straps to choose from and watch faces with complications tailored to whatever you’re into.",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/71lG7br7k1L._SX679_.jpg",
+                "rating": {
+                    "rate": 4.7,
+                    "count": 400
+                }
+            },
+            {
+                "id": 46,
+                "title": "Fire-Boltt Ninja 3 Plus 1.83 Display Smartwatch Full Touch with 100+ Sports Modes ",
+                "price": "999",
+                "description": "【1.83” HD Large Touch Screen】- Fire-Boltt Ninja 3 comes with a 1.83” HD Full Touch Display for smooth swipes and clear vision【100 workout modes】- This smartwatch consists of 60 sports mode to track. Keep a track of all your activities and compare history to analyse your performance. Count steps, distance, and calories burned",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/41oISYGl96L._SX300_SY300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 3.9,
+                    "count": 400
+                }
+            },{
+                "id": 47,
+                "title": "Noise Newly Launched Quad Call 1.81 Display, Bluetooth Calling Smart Watch,",
+                "price": "1,999",
+                "description": "1.81 inches(4.59cms) TFT display, 240*280px, Always on display - No, 550 nits brightness - Enjoy clear and vibrant visuals on its big and bright TFT display.NoiseFit app - Pair the smartwatch to the app to track your progress overtime, get health updates, compete with friends and share your achievements.",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/61QMPHGyc2L._AC_UL480_FMwebp_QL65_.jpg",
+                "rating": {
+                    "rate": 4.4,
+                    "count": 400
+                }
+            },
+            {
+                "id": 48,
+                "title": "Samsung Galaxy Watch4 Bluetooth(4.0 cm, Black, Compatible with Android only)",
+                "price": "27,999",
+                "description": "Only compatible with Android Smartphones (Runs on Wear OS Powered by Samsung) Bioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor.Health Monitoring features such as Advanced Sleep Analysis & Women's Health.",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/31NyK8A74VL._SY300_SX300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.5,
+                    "count": 400
+                }
+            },
+            {
+                "id": 49,
+                "title": "LOUIS DEVIN Silicone Strap Analog Wrist Watch for Men (Black/Blue/Red) | LD-BK054",
+                "price": "599",
+                "description": "ial Color: Black | Case Color: Black; Strap Type: 22mm Soft Silicone Black Strap Case Material: IP Black Plated Brass Case Package Contents: 1 Wrist Watch & Warranty Card<br>",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/61LO6l4zB4L._UX522_.jpg",
+                "rating": {
+                    "rate": 3.7,
+                    "count": 400
+                }
+            },
+            {
+                "id": 50,
+                "title": "boAt Lunar Orb Smart Watch with 1.45 AMOLED Display, BT Calling, DIY Watch Face Studio, Coins, Crest App Health Ecosystem, Live Cricket&Football Scores, IP67(Steel Black)",
+                "price": "2,999",
+                "description": "Screen: 1.45-inch AMOLED display with a square dial offers a full capacitive touch experience, allowing you to easily take control. Always on Display –Yes; Peak screen brightness 650 Nits(nits) Bluetooth Calling- Never miss out on important conversations with a premium built-in speaker and microphone that enables you to have a quick chat with your friends. Music Storage: No;Volume Control: Yes",
+                "category": "watch",
+                "image": "https://m.media-amazon.com/images/I/711c-tnMhgL._SX679_.jpg",
+                "rating": {
+                    "rate": 4.0,
+                    "count": 400
+                }
+            },
+            {
+                "id": 51,
+                "title": "Acer Aspire Lite 11th Gen Intel Core i5 Premium Metal Laptop",
+                "price": "50,999",
+                "description": "Processor : Great performance meets long battery life with the Intel Core i5-1155G7 Processor - up to 4.50 GHz, 4 cores, 8 threads, 8 MB Intel Smart Cache Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD display, 16:9 aspect ratio, ultra-slim design and narrow bezels.",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/71czGb00k5L._AC_UY327_FMwebp_QL65_.jpg",
+                "rating": {
+                    "rate": 4.3,
+                    "count": 400
+                }
+            },
+            {
+                "id": 52,
+                "title": "HP Laptop 14s, AMD Ryzen 5 5500U, 14-inch (35.6 cm), ",
+                "price": "35,999",
+                "description": "Processor: AMD Ryzen 5 5500U (up to 4.0 GHz max boost clock(2i),8 MB L3 cache, 6 cores, 12 threads)| Memory & Storage: 8GB (1x8GB) DDR4 3200,Upto 16 GB DDR4-3200 SDRAM (2 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD Display & Graphics: 35.6 cm (14) diagonal, FHD, IPS, micro-edge,250 nits, 157 ppi, 45%NTSC |Graphics: AMD Radeon Graphics",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/412iJsbxDqL._SX300_SY300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.2,
+                    "count": 400
+                }
+            },
+            {
+                "id": 53,
+                "title": "Dell 15 Laptop, Intel Core i5-1135G7 Processor/ 8GB/ 512GB/15.6 (39.62cm) ",
+                "price": "45,999",
+                "description": "Processor: Intel Core i5-1135G7 11th Generation (up to 4.20 GHz) 8MB, 4 Cores RAM & Storage: 8GB, 1x8GB, DDR4, 3200MHz, (2 DIMM Slots, Expandable up to 16GB) & 512GB SSD Software: Win 11 Home + Office H&S 2021, 15 Months McAfee antivirus subscription, Dell Mobile Connect, My Dell, Dell Power Manager, McAfee, Support Assist, Dell ComfortView Graphics & Keyboard: Integrated Onboard Graphics & Backlit Keyboard + Fingerprint Reader",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/51ESP0tpoBL._AC_UY327_FMwebp_QL65_.jpg",
+                "rating": {
+                    "rate": 4.6,
+                    "count": 400
+                }
+            },
+            {
+                "id": 54,
+                "title": "HP Laptop 15s, 11th Gen Intel Core i3-1115G4, 15.6-inch (39.6 cm), FHD, 8GB DDR4t",
+                "price": "49,999",
+                "description": "【2-core 11th Gen Intel Core i3-1115G4】4 threads and 6MB L3 cache deliver fast processing speeds. The Intel UHD graphics help you dive into crisp, stunning visuals.【Upgraded memory and storage】8GB DDR4 RAM and 512GB PCIe NVMe M.2 SSD allow you to undertake improved multitasking with high-bandwidth memory and ample storage. Now, browse or work as you please.",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/71fSS6dVWzL._SX679_.jpg",
+                "rating": {
+                    "rate": 4.0,
+                    "count": 400
+                }
+            },
+            {
+                "id": 55,
+                "title": "Acer Aspire Lite 11th Gen Intel Core i5 Premium Metal Laptop (16GB RAM/512GB SSD/Intel Iris Xe Graphics",
+                "price": "55,999",
+                "description": "Processor : Great performance meets long battery life with the Intel Core i5-1155G7 Processor - up to 4.50 GHz, 4 cores, 8 threads, 8 MB Intel Smart Cache Visibly Stunning: Experience sharp details and crisp colors on the 15.6 Full HD display, 16:9 aspect ratio, ultra-slim design and narrow bezels. Operating System : Windows 11 Home, Graphic : Intel Iris Xe Graphics",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/71czGb00k5L._SX466_.jpg",
+                "rating": {
+                    "rate": 3.8,
+                    "count": 400
+                }
+            },
+            {
+                "id": 56,
+                "title": "ASUS Vivobook 15, IntelCore i7-12650H 12th Gen, 15.6 (39.62 cm) FHD, Thin and Light Laptop (16 GB RAM/512GB SSD/Win11/Office",
+                "price": "59,999",
+                "description": "Processor: IntelCore i7-12650H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 10 cores)  Memory: 16GB DDR4 RAM (8GB Onboard + 8GB SO-DIMM) | Storage: 512GB M.2 NVMe PCIe 3.0 SSD Display: 15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, 220nits, 60Hz refresh rate, Anti-glare display, 45% NTSC",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/813-FmU7N1L._SX679_.jpg",
+                "rating": {
+                    "rate": 4.6,
+                    "count": 400
+                }
+            },
+            {
+                "id": 57,
+                "title": "Dell G15 5520 Gaming Laptop, Intel i5-12500H/16GB DDR5/1TB SSD/15.6 (39.62cm) FHD WVA AG 120Hz 250 nits/NVIDIA RTX 3050, 4 GB",
+                "price": "78,999",
+                "description": "Processor : 12th Gen Intel Core i5-12500H | Up to 4.50 Ghz | 12 cores | 16 Threads | 18 MB Cache | 45 W TDP // Memory : 16 GB, 2 x 8 GB, DDR5, 4800 MHz // Storage :  1TB SSDDisplay: 15.6 FHD 1920 x 1080 WVA, Non-Touch, Anti-Glare| 120 Hz ( 9ms ) | 250 nits | 45% NTSC Graphics: NVIDIA GeForce RTX 3050 4 GB GDDR6 with max 90 W TGP",
+                "category": "laptop",
+                "image": "https://m.media-amazon.com/images/I/413AOjExflL._SX300_SY300_QL70_FMwebp_.jpg",
+                "rating": {
+                    "rate": 4.7,
+                    "count": 400
+                }
+            },
+            {
+                "id": 58,
+                "title": "MSI GF63 Thin, Intel Core i7-11800H, 40CM FHD 144Hz Gaming Laptop (16GB/512GB NVMe SSD/Windows 11 Home/Nvidia",
+                "price": "80,999",
+                "description": "Processor: Intel Core i7-11800H Up To 4.6 GHzOperating System: Pre-loaded Windows 11 Home with lifetime validity |Preinstalled Software: MSI Center | In the box: Laptop, Power AdapterDisplay: 40 CM FHD (1920x1080), 144Hz, IPS-Level Panel",
+                "category": "laptop", 
+                "image": "https://m.media-amazon.com/images/I/61cgS33eaRL._SX679_.jpg",
+                "rating": {
+                    "rate": 4.6,
+                    "count": 400
+                }
+            },
+            {
+                "id": 59,
+                "title": "Sukkhi Traditional Gold Plated Copper Temple Collar Bone Necklace Set And Earring | Jewellery Set For Women (NS105618)",
+                "price": "499",
+                "description": "What's In The Box : 1 Necklace & 1 Pair of Earring Traditional Elegance: The Sukkhi Traditional Gold Plated Copper Temple Collar Bone Necklace & Earring Jewellery Set showcases a stunning design inspired by temple jewelry, exuding timeless beauty and cultural charm.",
+                "category": "jewelery", 
+                "image": "https://m.media-amazon.com/images/I/71vEZkDJpyL._UY695_.jpg",
+                "rating": {
+                    "rate": 4.2,
+                    "count": 400
+                }
+            },
+            {
+                "id": 60,
+                "title": "Sukkhi Dramatic Gold Plated AD Stone Collar Bone Necklace Set And Earring | Jewellery Set For Women (NS105660)",
+                "price": "999",
+                "description": "What's In The Box : 1 Necklace & 1 Pair of Earring Traditional Elegance: The Sukkhi Traditional Gold Plated Copper Temple Collar Bone Necklace & Earring Jewellery Set showcases a stunning design inspired by temple jewelry, exuding timeless beauty and cultural charm.",
+                "category": "jewelery",
+                "image": "https://m.media-amazon.com/images/I/71l9IPVabdL._UY695_.jpg",
+                "rating": {
+                    "rate": 4.1,
+                    "count": 400
+                }
+            },
+            {
+                "id": 61,
+                "title": "Shining Diva Fashion Latest Stylish Fancy Oxidised Silver Tribal Necklace Jewellery Set for Women (12164s), Multicolour, One",
+                "price": "199",
+                "description": "Latest design oxidised silver necklace jewellery set with earrings Stylish boho afghani traditional jewellery that can be worn with all kinds of outfits  Made from fine quality hand picked material, perfect necklace jewellery for casual or wedding party wear  Gift for women valentine birthday anniversary gift for someone you love",
+                "category": "jewelery", 
+                "image": "https://m.media-amazon.com/images/I/71CSGmv8tQL._UY695_.jpg",
+                "rating": {
+                    "rate": 4.3,
+                    "count": 400
+                }
+            },
+            {
+                "id": 62,
+                "title": "Shining Diva Fashion Latest Stylish Design Fancy Pearl Choker Traditional Temple Necklace Jewellery Set for Women (14822s) (Golden)",
+                "price": "1,999",
+                "description": "Latest traditional design jewellery set for women  22k Gold plated jewellery for high durablility, Gives original gold jewellery look Stylish south indian pearl choker temple necklace set Perfect festive or wedding party necklace jewellery. Prep up your traditional look with this gold-plated jewellery set. This set will complement your attire and show-off your unique fashion sense",
+                "category": "jewelery", 
+                "image": "https://m.media-amazon.com/images/I/81nHiyg-XTL._UY625_.jpg",
+                "rating": {
+                    "rate": 4.9,
+                    "count": 400
+                }
+            }
+
+
+          
+          
+        ]
+    
+    
+}
