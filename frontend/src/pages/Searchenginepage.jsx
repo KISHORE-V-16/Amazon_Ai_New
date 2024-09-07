@@ -89,9 +89,10 @@ const validsearchdata=localStorage.getItem('psd');
                 })
                }
              
-               </div> 
-               </div>
-                </motion.div> </AnimatePresence>
+                </div> 
+                </div>
+                </motion.div> 
+              </AnimatePresence>
         })   
     )
    }

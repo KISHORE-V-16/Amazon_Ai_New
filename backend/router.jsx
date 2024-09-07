@@ -10,5 +10,6 @@ router.post('/send-email-code',controller.SendEmailcode);
 router.post('/verify-email-code',controller.validateEmailcode);
 router.get('/verifier',admin_controller.decodeToken);
 router.post('/checkout-sessions',checkout.stripe_payment);
+router.post('/image-extract-data',controller.Image_detector);
 
 module.exports = router;

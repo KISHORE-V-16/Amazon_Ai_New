@@ -114,9 +114,45 @@ const validateEmailcode =async (req,res) =>{
 
 }
 
+ 
+const Image_detector =async (req,res) =>
+  {
+  
+    const data = req.body.extract_data;
+    
+  const options = {
+  
+    method: "POST",
+    url: "https://api.edenai.run/v2/ocr/ocr",
+    headers: {
+      Authorization: `Bearer ${process.env.API_KEY}`,
+    },
+    data: {
+      providers: ["microsoft","google"],
+      language: "en",
+      file_url:  `${data}`,
+      fallback_providers: [],
+    },
+  
+  };
+  
+  
+  await axios
+  .request(options)
+  .then((response) => {
+    console.log(response);
+      return res.status(200).json(response);
+  })
+  .catch((error) => {
+      return res.status(404).json(error);
+  });
+  
+  }
+
 module.exports={
     sendVerificationCode,
     verifyCode,
+    Image_detector,
     SendEmailcode,
     validateEmailcode
 }

@@ -33,7 +33,7 @@ useEffect(()=>{
 observer.observe(myRef.current);
 },[visibilitystyles]);
 
-  const alankey = "ae13481cb56b6adb737e8fd4a03c8a082e956eca572e1d8b807a3e2338fdd0dc/stage";
+ const alankey = "ae13481cb56b6adb737e8fd4a03c8a082e956eca572e1d8b807a3e2338fdd0dc/stage";
   
       const cartmoneycollections = collection(firestore1,'cashcollections')
       const [data1,setdata1] = useState([]);
@@ -146,7 +146,7 @@ observer.observe(myRef.current);
            }
           },
           
-      });
+      }); 
      
      
 if(fireAuth.currentUser!=null && count==1){
@@ -160,6 +160,7 @@ else if( fireAuth.currentUser==null){
  count =0;
 }
     }, []);
+   
 
   return (
   <>

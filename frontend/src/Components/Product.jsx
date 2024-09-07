@@ -70,6 +70,7 @@ const Product = ({imgsrc,proinfo,price,rating,id,prodescription,key}) => {
          const findmatchdata = purchasedata.filter((data)=>data.imgsrc == imgsrc);
    
          if(!findmatchdata[0]){
+            dispatch(addition());
         const getdata = collection(firestore1,'purchaseitems');
         addDoc(getdata,{"emailid":emaildata,"id":id,"title":proinfo,"price":price,"imgsrc":imgsrc,"rating":rating,"count":1})
         .then(res => console.log(res))
@@ -111,7 +112,7 @@ const Product = ({imgsrc,proinfo,price,rating,id,prodescription,key}) => {
            setTimeout(() => {
                 setcartshow(true);
             }, 2000);
-        });notify(proinfo);dispatch(addition());dispatch(insubtotal(price));dispatch(offermoney(price));}} >{cartshow ? 'Add To Cart': (<div className='btn-cart-animation'><FaShoppingCart/>Added</div>)} </button>
+        });notify(proinfo);;dispatch(insubtotal(price));dispatch(offermoney(price));}} >{cartshow ? 'Add To Cart': (<div className='btn-cart-animation'><FaShoppingCart/>Added</div>)} </button>
        
        </div>
        

@@ -14,16 +14,16 @@ import { useDispatch,useSelector } from 'react-redux';
 import { getdata,checksearchdata } from '../utils/redux-store-management';
 import {deleteDoc,doc,onSnapshot,collection,addDoc,updateDoc} from 'firebase/firestore';
 import { firestore1 } from '../utils/firebase';
-import * as mobilenet from '@tensorflow-models/mobilenet';
-import { imgdata } from '../utils/imageimport';
+import Imagedetection from './Imagedetection';
 
 const Header = ({pagename,cartcount}) => {
 
-const cartcount1 = useSelector((state) =>state.cart.cartcount);
-const totalmoney = useSelector((state) => state.cart.totalamount);
-const offercash  = useSelector((state) => state.cart.offeramount);
+        const cartcount1 = useSelector((state) =>state.cart.cartcount);
+        const totalmoney = useSelector((state) => state.cart.totalamount);
+        const offercash  = useSelector((state) => state.cart.offeramount);
        
-       
+        const [object_result,setobject_result] = useState([]);
+
 
         window.SpeechRecognition = window.webkitSpeechRecognition;
         const recognition =new SpeechRecognition();
@@ -186,46 +186,16 @@ const data=searchdata;
 
 },[]);
 
-const Imgref = useRef();
+const [imageurl,setimageurl] = useState("");
 
- const  habdlechanges =async (event) =>{
-
-    const reader= new FileReader();
-
-    reader.onload = function(onLoadEvent){
-        setImgSrc(onLoadEvent.target.result);
-        console.log(onLoadEvent.target.result);
+useEffect(()=>{
+    if(object_result?.[0]){
+        setimageurl("");    
+        setsearchdata(object_result?.[0].label);
+        setshowupload(false);
     }
+},[object_result]);
 
-    const url = URL.createObjectURL(event.target.files[0]);
-    console.log(url);
-}
-
-const imagedetector =async () =>{
-
-    await fetch(SERVER_IP+'/api/image_extract_data',{
-        method: 'POST',
-        headers: {
-          'Accept':'application/json',
-          'Content-Type':'application/json'
-        },
-        body: JSON.stringify({"imgsrc":`${ImgsSrc}`})
-        }).then(response => {
-        if(response.ok === true)
-        {
-        console.log("done succesfully");
-        }
-      })
-}
-
-const image_detect =async () =>{
-    try {
-      const model = await mobilenet.load();
-      console.log("done with it",model.classify(Imgref.current)); 
-    } catch (error) {
-        console.log(error.message,"bhghygyg");
-    }
-}
 
   return (
     <>
@@ -243,9 +213,13 @@ const image_detect =async () =>{
         <div className="all-head-search">
         <div className="header-search">
            
-            <input type="text" value={searchdata} onChange={(e)=>{setsearchdata(e.target.value);setchecksearch(e.target.value ? false:true);!e.target.value && setTimeout(() => {
-            !e.target.value &&  navigate1(`/${localStorage.getItem('pageaddress')}`);localStorage.setItem('searchdata','');
-        }, 5000);e.target.value && dispatch(getdata(e.target.value))  }} onFocus={()=>{setfocus(false);}} onBlur={()=>{setTimeout(()=>{setfocus(true);},1000)}}/>
+           {
+            (!showupload || object_result?.[0])&&(
+                <input type="text" className='search-input' value={searchdata} onChange={(e)=>{setsearchdata(e.target.value);setchecksearch(e.target.value ? false:true);!e.target.value && setTimeout(() => {
+                    !e.target.value &&  navigate1(`/${localStorage.getItem('pageaddress')}`);localStorage.setItem('searchdata','');
+                }, 5000);e.target.value && dispatch(getdata(e.target.value))  }} onFocus={()=>{setfocus(false);}} onBlur={()=>{setTimeout(()=>{setfocus(true);},1000)}}/>
+            )
+           }
        
           {
            !focus &&(
@@ -261,14 +235,11 @@ const image_detect =async () =>{
         </div>)
           }
           {
-            showupload && (
+            (showupload) && (
             
-                <div className="upload-container">
-                    
-        <input type='file' name="file" onChange={habdlechanges}/>
-        
-        <button onClick={image_detect()}>upload</button> 
-                    </div>
+                <div className="upload-container ">
+                    <Imagedetection setobject_result={setobject_result} setimageurl={setimageurl} />
+                </div>
 
             )
           }
@@ -281,7 +252,7 @@ const image_detect =async () =>{
         <div className="search-btn">
 
 <button className="icons " onClick={()=>searchsubmit()}><div className="b1"><FaSearch/></div></button> 
-<button className='icons ' onClick={()=>setshowupload(true)}><div className="b3"><FaCamera/></div></button>
+<button className='icons ' onClick={()=>setshowupload(!showupload)}><div className="b3"><FaCamera/></div></button>
 <button  className="icons" onClick={()=>{recognition.start();setTimeout(() => {
     recognition.stop();
 }, 4000);}}><div className="b2"><FaMicrophone/></div></button>
@@ -379,29 +350,28 @@ const All = styled.div`
         display: flex;
        flex-flow: row;
        justify-content: flex-start;
+       
         .header-search{
        
-       
-       input{
-           width: 500px;
+       .search-input{
+        width: 450px;
            height: 30px;
-           background-color: white;
+           background-color: whitesmoke;
            border: none;
-           
        }
+
        .searched-container{
         padding: 10px;
         display: flex;
         flex-flow:column;
         gap: 0.7rem;
-        background-color:whitesmoke;
         color:black;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         border-left: 2px solid #747474d4;
         border-right:2px solid #747474d4;
         border-bottom: 2px solid #747474d4;
- 
+        background-color: #ececec;
         .search-data{
             width: 95%;
             height: 40px;
@@ -438,7 +408,7 @@ const All = styled.div`
         
         width: 150px;      
         height: 35px;
-       
+        display:flex;
 
         .icons{
             width: 50px;
@@ -467,7 +437,40 @@ const All = styled.div`
     }
 
     .upload-container{
+        display:flex;
+        flex-flow:row;
+        width: 450px;
+        justify-content: space-evenly;
+        .uploadfile{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 250px;
+            height: 30px;
+            border: none;
+            color:white;
+       }
 
+       input{
+        padding: 5px;
+        font-size: 15px;
+        border-radius: 20px;
+       }
+
+       button{
+            width: 80px;
+            height: 30px;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: 700;
+            border:none;
+            font-family: Arial, Helvetica, sans-serif;
+            color:black;
+            background-color: #cd9400;
+       }
+       button:hover{
+            background-color: #ffae00;
+       }
     }
     
     .header-nav{
